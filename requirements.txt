@@ -1,0 +1,8 @@
+uwsgi
+psycopg2-binary==2.8.3
+Django==1.11.17
+djangorestframework==3.9.1
+ipython
+django-import-export==1.1.0
+ipdb
+django-rest-swagger==2.2.0
